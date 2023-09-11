@@ -1,4 +1,4 @@
-import dfs from "@code/DFSGraphList";
+import dfs from "day1/DFSGraphList";
 import { list2 } from "./graph";
 
 test("dfs - graph", function () {

@@ -1,5 +1,7 @@
 {
     "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
         "outDir": "dist",
         "allowJs": true,
         "noImplicitAny": true,
@@ -12,7 +14,7 @@
         "baseUrl": "src",
         "paths": {
             "@code/*": [
-                "day4/*"
+                "day2/*"
             ]
         }
     },
