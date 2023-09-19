@@ -1,4 +1,4 @@
-import Queue from "day1/Queue";
+import Queue from "../day1/Queue";
 
 test("queue", function () {
     const list = new Queue<number>();
