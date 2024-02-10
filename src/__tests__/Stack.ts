@@ -1,4 +1,4 @@
-import Stack from "day1/Stack";
+import Stack from "../day1/Stack";
 
 test("stack", function () {
     const list = new Stack<number>();
